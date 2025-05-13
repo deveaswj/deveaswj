@@ -45,9 +45,9 @@ I’m especially interested in positions where strong communication and creative
 ### 🌱 Fun Facts
 
 - I live in Tulsa with my partner and our pets
-- I like designing tabletop games—I've created several original ones since 2020
-- I am actively developing a fantasy world for an interactive branching novel
-- I once built a forest growth simulator that ran statistical models on **millions** of real acres of land
+- I design tabletop games for fun—I've created several original ones since 2020
+- I enjoy world-building, and am planning a branching ("CYOA"-style) novel based on concepts I've been developing
+- I once built a forest growth simulator that ran statistical models on *millions* of real acres of land
 - I love clean code, expressive APIs, and tiny systems that quietly do big things
 
 ---
