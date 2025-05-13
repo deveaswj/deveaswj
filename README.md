@@ -1,4 +1,4 @@
-## 👋 Hi, I'm *Bill*.
+## 👋 Hi, I'm **Bill**.
 
 I'm a software developer with a passion for building systems that are clear, expressive, and fun to use.  
 I've been programming since I was a kid — and I still love it just as much now.
@@ -6,7 +6,7 @@ I've been programming since I was a kid — and I still love it just as much now
 ### 💼 My Background
 
 - 💻 I offer deep expertise from a rich background in software development, with a focus on *business systems* (GIS, statistics, simulation modeling, inventory databases) and, more recently, *video games* (Unity with C#).
-- 🎮 Last year, I worked for a game studio, where I helped build gameplay systems before the company unfortunately folded. That experience reignited my enthusiasm for interactive design and storytelling systems.
+- 🎮 Last year, I worked for a game studio, where I helped build gameplay systems until the company unfortunately folded. That experience reignited my enthusiasm for interactive design and storytelling systems.
 - 🛠️ These days, I’m building small games and tools to sharpen my skills, expand my portfolio, and reconnect with the joy of making things work.
 - 📚 I’m especially interested in systems design, creative coding, and games that explore narrative, strategy, or simulation.
 
@@ -20,7 +20,7 @@ I'm actively seeking **remote work** where I can:
 - Help design, build, or maintain systems with care and clarity
 - Contribute to games, tools, or interactive media that bring joy or solve real problems
 
-I’m especially interested in positions where strong communication and creative problem-solving are valued alongside technical skill. I thrive in mission-driven teams—or independently—bringing a user-focused mindset to every project.
+My ideal role would be one where strong communication and creative problem-solving are valued alongside technical skill. I thrive in mission-driven teams—or independently—bringing a user-focused mindset to every project.
 
 ---
 
@@ -44,7 +44,7 @@ I’m especially interested in positions where strong communication and creative
 
 ### 🌱 Fun Facts
 
-- I live in Tulsa with my partner and our pets
+- I can speak and read some Spanish, little bits of Japanese and Russian, and I'm currently attempting to learn Hawaiian
 - I design tabletop games for fun—I've created several original ones since 2020
 - I enjoy world-building, and am planning a branching ("CYOA"-style) novel based on concepts I've been developing
 - I once built a forest growth simulator that ran statistical models on *millions* of real acres of land
