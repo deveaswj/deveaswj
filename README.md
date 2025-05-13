@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Bill.
+## 👋 Hi, I'm *Bill*.
 
 I'm a software developer with a passion for building systems that are clear, expressive, and fun to use.  
 I've been programming since I was a kid — and I still love it just as much now.
@@ -6,7 +6,7 @@ I've been programming since I was a kid — and I still love it just as much now
 ### 💼 My Background
 
 - 💻 I offer deep expertise from a rich background in software development, with a focus on *business systems* (GIS, statistics, simulation modeling, inventory databases) and, more recently, *video games* (Unity with C#).
-- 🎮 Most recently, I worked at a game studio, where I helped build gameplay systems before the company unfortunately folded. That experience reignited my enthusiasm for interactive design and storytelling systems.
+- 🎮 Last year, I worked for a game studio, where I helped build gameplay systems before the company unfortunately folded. That experience reignited my enthusiasm for interactive design and storytelling systems.
 - 🛠️ These days, I’m building small games and tools to sharpen my skills, expand my portfolio, and reconnect with the joy of making things work.
 - 📚 I’m especially interested in systems design, creative coding, and games that explore narrative, strategy, or simulation.
 
