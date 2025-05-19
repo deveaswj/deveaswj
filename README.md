@@ -45,12 +45,12 @@ My ideal role would be one where strong communication and creative problem-solvi
 ### 🌱 Fun Facts
 
 - I can speak and read some Spanish, little bits of Japanese and Russian, and I'm currently attempting to learn Hawaiian
-- I design tabletop games for fun—I've created several original ones since 2020
+- I design tabletop games for fun—I've [created several original ones](https://bii.neocities.org/games/) since 2020
 - I enjoy world-building, and am planning a branching ("CYOA"-style) novel based on concepts I've been developing
 - I once built a forest growth simulator that ran statistical models on *millions* of real acres of land
 - I love clean code, expressive APIs, and tiny systems that quietly do big things
 
 ---
 
-📫 **Let's connect**  
+### 📫 Let's connect
 You can reach me via [LinkedIn](https://www.linkedin.com/in/deveaswj/) (or drop me a message here on GitHub if you prefer).
