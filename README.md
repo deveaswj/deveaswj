@@ -1,7 +1,7 @@
-## 👋 Hi, I'm **Bill**.
+## 👋 Hi, I'm Willson, and I also go by **Bill**.
 
 I'm a software developer with a passion for building systems that are clear, expressive, and fun to use.  
-I've been programming since I was a kid — and I still love it just as much now.
+I've been programming since I was a kid, then made it my career straight from college, and I still love it just as much now.
 
 ### 💼 My Background
 
