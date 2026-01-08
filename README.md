@@ -44,11 +44,11 @@ My ideal role would be one where strong communication and creative problem-solvi
 
 ### 🌱 Fun Facts
 
-- I can speak and read some Spanish, and little bits of Japanese and Russian
-- I design tabletop games for fun—I've [created several original ones](https://bii.neocities.org/games/) since 2020
-- I enjoy world-building, and am planning a novel trilogy based on concepts I've been developing
-- I once built a forest growth simulator that ran statistical models on *millions* of real acres of land
-- I love clean code, expressive APIs, and tiny systems that quietly do big things
+- I can speak and read some Spanish, and little bits of Japanese, Russian, Hawaiian.
+- I design tabletop games for fun—I've [created several original ones](https://bii.neocities.org/games/) since 2020.
+- I enjoy world-building, and am planning a novel trilogy based on concepts I've been developing.
+- I once built a forest growth simulator that ran statistical models on *millions* of real acres of land.
+- I love clean code, expressive APIs, and tiny systems that quietly do big things.
 
 ---
 
