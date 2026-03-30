@@ -1,56 +1,36 @@
-## 👋 Hi, I'm Willson, and I also go by **Bill**.
+# Hi, I'm Bill.
 
-I'm a software developer with a passion for building systems that are clear, expressive, and fun to use.  
-I've been programming since I was a kid, then made it my career straight from college, and I still love it just as much now.
+I build systems — *software, simulations, and games* — that handle real complexity without losing clarity.
 
-### 💼 My Background
+# Background
+My career started when I was talent-scouted out of a CS program by a land resource management firm, where I spent twenty years building production software for the timber industry. The most significant thing I worked on was a long-range ecological simulation engine: a system that modeled tree growth, harvesting, and replanting cycles across millions of acres of real land, projecting outcomes in five- and ten-year increments over a hundred-year horizon. It was rigorous, domain-specific, and commercially significant enough that a subsequent team rebuilt and now sells it as a SaaS product.
 
-- 💻 I offer deep expertise from a rich background in software development, with a focus on *business systems* (GIS, statistics, simulation modeling, inventory databases) and, more recently, *video games* (Unity with C#).
-- 🎮 Last year, I worked for a game studio, where I helped build gameplay systems until the company unfortunately folded. That experience reignited my enthusiasm for interactive design and storytelling systems.
-- 🛠️ These days, I’m building small games and tools to sharpen my skills, expand my portfolio, and reconnect with the joy of making things work.
-- 📚 I’m especially interested in systems design, creative coding, and games that explore narrative, strategy, or simulation.
+That work gave me a deep foundation in statistical modeling, spatial analysis, relational databases, and the particular discipline of writing software that people depend on.
 
----
+# What I've Done Since
+The platforms have changed. The tools have changed. But producing software under real constraints, for real users, with real consequences — that kind of work deepens how you think about problems and their solutions.
 
-### 🔍 What I'm Looking For
+After my department was laid off, I've stayed current through contract work, independent projects, and formal study. I spent nine months at a game studio, where I trained in Unity and contributed to an RPG in development before the studio closed. I've been making and sharing games of my own design since 2020.
 
-I'm actively seeking **remote work** where I can:
+I'm currently completing an Intermediate Data Analytics certification program, adding modern tooling to foundational skills I've been applying professionally for decades.
 
-- Use my deep technical experience in a collaborative, thoughtful environment
-- Help design, build, or maintain systems with care and clarity
-- Contribute to games, tools, or interactive media that bring joy or solve real problems
+# What I'm Looking For
+My ideal role is in systems design — the place where rigorous thinking about rules, models, and emergent behavior meets the craft of making something people actually want to use. That could mean game systems, simulation tools, data pipelines, or something I haven't thought of yet.
 
-My ideal role would be one where strong communication and creative problem-solving are valued alongside technical skill. I thrive in mission-driven teams—or independently—bringing a user-focused mindset to every project.
+I'm open to software development and data roles where deep experience and careful thinking are assets. I work best remotely, independently, and on problems that reward precision.
 
----
+I'm not looking for a stepping stone. I'm looking for *work worth doing*.
 
-### 🧰 Technologies & Tools
+# Technologies & Tools
+- **Languages:** C#, Python, SQL, Visual FoxPro
+- **Platforms & Tools:** Unity 2D, ESRI MapObjects, GitHub, QGIS (familiar)
+- **Domains:** Ecological simulation, GIS, inventory systems, statistical modeling, game design, tabletop systems
+- **Practices:** Technical documentation, systems design, data analysis, independent research
 
-- **Languages**: C#, Python, Visual FoxPro, SQL
-- **Game Dev**: Unity 2D, GitHub, tilemaps, basic animation, UI/UX
-- **Past Life**: Built enterprise-grade business software, GIS, simulations, and data tools
-- **Soft Skills**: Technical writing, mentoring, team collaboration, product ownership
+# Other Things Worth Knowing
+- I've designed several tabletop games since 2020, when pandemic lockdown sent me looking for ways to entertain my family with whatever components we had around the house. Many of my early designs developed independently of any formal game design study. Rules documentation here: [games portfolio](https://bii.neocities.org/games/)
+- I'm a collaborator as well as an independent worker. My simulation work was built in close partnership with a Registered Professional Forester — I implemented the math; he validated the domain. That kind of working relationship suits me.
+- Language has been a lifelong interest. I grew up moving between Hawaiian and Spanish as ambient second languages, studied Japanese formally, and have been constructing original languages for a fantasy world I'm building.
+- I care about clean code, expressive APIs, and systems that quietly do exactly what they're supposed to.
 
----
-
-### 🎮 Current Focus
-
-- Investing in daily coding habits
-- Prototyping Unity mini-games
-- Refreshing C# fluency
-- Learning every day
-
----
-
-### 🌱 Fun Facts
-
-- I can speak and read some Spanish, and little bits of Japanese, Russian, Hawaiian.
-- I design tabletop games for fun—I've [created several original ones](https://bii.neocities.org/games/) since 2020.
-- I enjoy world-building, and am planning a novel trilogy based on concepts I've been developing.
-- I once built a forest growth simulator that ran statistical models on *millions* of real acres of land.
-- I love clean code, expressive APIs, and tiny systems that quietly do big things.
-
----
-
-### 📫 Let's connect
-You can reach me via [LinkedIn](https://www.linkedin.com/in/deveaswj/) (or drop me a message here on GitHub if you prefer).
+Available for remote work. Open to collaboration. Find me on [LinkedIn](https://www.linkedin.com/in/deveaswj/).
